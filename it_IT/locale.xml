@@ -1442,5 +1442,12 @@ Il processo di validazione pu&#x00F2; non funzionare sugli URL di ricerca che ri
 <message key="common.percentage">%</message>
 <message key="editor.issues.futureIssues">Fascicoli future</message>
 <message key="editor.issues.backIssues">Fascicoli precedenti</message>
+<message key="submission.submit.metadataForm">Ulteriori perfezionamenti</message>
+<message key="submission.metadataDescription">Queste specifiche sono basate sul set di metadati Dublin Core, uno standard internazionale utilizzato per descrivere il contenuto del journal.</message>
+
+<message key="editor.submission.decision.skipReview">Accetta e Skip reviewer</message>
+
+
+
 
 </locale>
